@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Sandeep-PC" name="test.YahooTest_1" tests="2" failures="0" timestamp="31 May 2015 06:14:06 GMT" time="0.01" errors="0">
+  <testcase name="@BeforeTest beforeTest" time="0.0" classname="test.YahooTest_1">
+    <skipped/>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="test.YahooTest_1">
+    <skipped/>
+  </testcase>
+  <testcase name="@BeforeMethod beforeMethod" time="0.0" classname="test.YahooTest_1">
+    <skipped/>
+  </testcase>
+  <testcase name="readMail" time="0.0" classname="test.YahooTest_1">
+    <skipped/>
+  </testcase>
+  <testcase name="sendMail" time="0.0" classname="test.YahooTest_1">
+    <skipped/>
+  </testcase>
+</testsuite>
